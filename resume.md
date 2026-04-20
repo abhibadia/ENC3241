@@ -6,7 +6,7 @@ title: Resume
 # Resume
 
 <object
-  data="file:///Users/abhibadia3/Downloads/ZuppMarketingApplicant_AbhiBadia.pdf"
+  data="finalresume.pdf"
   type="application/pdf"
   width="100%"
   height="100%"
