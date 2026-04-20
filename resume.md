@@ -6,7 +6,7 @@ title: Resume
 # Resume
 
 <object
-  data="data="/ENC3241/finalresume.pdf""
+  data="/ENC3241/finalresume.pdf"
   type="application/pdf"
   width="100%"
   height="100%"
