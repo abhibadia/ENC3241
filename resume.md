@@ -9,7 +9,7 @@ title: Resume
   data="finalresume.pdf"
   type="application/pdf"
   width="100%"
-  height="100%"
+  height="200%"
 >
   <p>
     Your browser does not support PDFs. [Download the
