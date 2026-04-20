@@ -5,14 +5,9 @@ title: Resume
 
 # Resume
 
-<object
-  data="finalresume.pdf"
-  type="application/pdf"
+<iframe
+  src="https://docs.google.com/viewer?url=https://abhibadia.github.io/ENC3241/finalresume.pdf&embedded=true"
   width="100%"
-  style="height: 90vh;"
+  style="height: 90vh; border: none;"
 >
-  <p>
-    Your browser does not support PDFs. [Download the
-    PDF]<a href = "finalresume.pdf"> Download the PDF </a> .
-  </p>
-</object>
+</iframe>
