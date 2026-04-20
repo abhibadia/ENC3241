@@ -6,13 +6,13 @@ title: Resume
 # Resume
 
 <object
-  data="/ENC3241/finalresume.pdf"
+  data="finalresume.pdf"
   type="application/pdf"
   width="100%"
   height="100%"
 >
   <p>
     Your browser does not support PDFs. [Download the
-    PDF](https://example.com/test.pdf) .
+    PDF]<a href = "finalresume.pdf"> Download the PDF </a> .
   </p>
 </object>
